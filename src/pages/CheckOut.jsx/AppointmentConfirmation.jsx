@@ -17,7 +17,6 @@ const AppointmentConfirmation = () => {
                         <div className='flex justify-center items-center flex-col gap-10 w-auto md:mx-auto'>
                             <div className="p-2 rounded-full bg-darkGreen flex items-center justify-center">
                                 <MdVerified className="text-white  text-[80px]"/>
-                                {/* <img src="./assets/Approval.png" alt="Approval" className="max-w-[100px] max-h-[100px] w-auto h-auto"/> */}
                             </div>
                             <Heading isCenter={1} myStyle={"text-[24px] lg:text-[40px] text-center font-normal md:text-[36px]"}>
                                 Appointment Booked Successfully
